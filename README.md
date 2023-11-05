@@ -70,6 +70,10 @@ For illustration only, but not yet supported in the current code.
   <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_higgs_big_data.gif" >
 </div>
 
+<div style="text-align: center;">
+  <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_eurusdm1_2021_data.gif" >
+</div>
+
 Here I take the year 2021 to show different ways in which the data can be viewed.
 The EURUSDM1 dataset 2000-2022 is from kaggle:
 https://www.kaggle.com/code/geuttalawalid/eur-usd-2000-2022-1-min/output
@@ -80,7 +84,7 @@ Which was able to achieve 50.5% accuracy so far, not great but okay actually wi
 But probably it is more interesting to build a system that can predict based on equality instead of the difference. No matter how you divide the forex data, the picture always seems to converge. Otherwise the difference would have to show up more. At least that was my first naive impression.
 
 <div style="text-align: center;">
-  <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_eurusdm1_2021_data.gif" >
+  <img src="https://github.com/grensen/pcdc/blob/main/figures/credit_norm.png" >
 </div>
 
 Normalization by feeling. But why all this? Actually, pcdc is a kind of glasses, adaptable, and there to provide a neural network improved data. 
