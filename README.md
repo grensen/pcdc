@@ -70,6 +70,18 @@ For illustration only, but not yet supported in the current code.
   <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_higgs_big_data.gif" >
 </div>
 
+The Higgs boson (particle) vs. background noise dataset, available here:
+https://archive.ics.uci.edu/dataset/280/higgs
+
+Be beware of 11,000,000 examples, the file has 8 GB. Here I was more concerned about the question of where the limits are. 
+Much more data should probably not be actively processed on my medium skilled pc.
+
+I don't really know anything about particle accelerators and what happens there.
+But after the first look at the data it seems to be helpful to cut the last 8 features to stretch the data. 
+It appears that these are the features that offer the greatest differentiation for prediction systems. 
+Assuming we have normalized the dataset already, then all data would be distributed between 0 and 1. 
+The code to cap could look like this: feature = valueFeature > 0.5 ? 1.0 : valueFeature / 0.5;
+
 <div style="text-align: center;">
   <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_eurusdm1_2021_data.gif" >
 </div>
