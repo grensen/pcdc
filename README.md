@@ -74,7 +74,7 @@ The demo uses auto download, the directory for the demo can be changed and is lo
 
 For illustration only, but not yet supported in the current code. 
 
-## PCDC on Big DATA with Higgs
+## PCDC on Big Data with Higgs
 
 <div style="text-align: center;">
   <img src="https://github.com/grensen/pcdc/blob/main/figures/pcdc_higgs_big_data.gif" >
