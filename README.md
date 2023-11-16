@@ -69,7 +69,9 @@ This feature can be added, subtracted or multiplied with a new feature. When you
 
 Now new rules can be created based on this, or new datasets or features, just repeat the process and get better insights into the dataset.
 
-To install just take the [code]([code](https://github.com/grensen/pcdc/blob/main/pcdc_fraud_demo.cs)) and follow [this guide](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/install.gif) with the latest Visual Studio version.
+## How to Install
+
+To install just take the [code](https://github.com/grensen/pcdc/blob/main/pcdc_fraud_demo.cs) and follow [this guide](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/install.gif) with the latest Visual Studio version.
 The demo uses auto download, the directory for the demo can be changed and is located at the top of the 975 lines of code.
 
 For illustration only, but not yet supported in the current code. 
