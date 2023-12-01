@@ -144,5 +144,12 @@ But pcdc doesn't fit in there, just like the comment about limiting ChatGPT to R
 
 So if there is such a category, then perhaps it is human feedback (HF) learning. Hope you liked the introduction to PCDC.
 
+## Daily Climate Data Düsseldorf (1969-2022) - Wild
+
+<p align="center">
+  <img src="https://github.com/grensen/pcdc/blob/main/klima/project_climate_wild.png" >
+</p>
+
+[Modified dataset](https://github.com/grensen/pcdc/blob/main/klima/data/klima_duesseldorf_modified.txt)
 
 
